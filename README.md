@@ -4,7 +4,7 @@
 
 Ceci est le repository GitHub du projet d'électronique du groupe D
 
-## Membre du groupe 
+## Membres du groupe 
 
 - BORKA Mark 
 - GEONET Antoine
